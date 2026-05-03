@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "project-1",
+      "description": "Modern SaaS Dashboard",
+      "imageUrl": "https://picsum.photos/seed/67/800/600",
+      "imageHint": "SaaS dashboard"
+    },
+    {
+      "id": "project-2",
+      "description": "Premium E-commerce Platform",
+      "imageUrl": "https://picsum.photos/seed/89/800/600",
+      "imageHint": "Ecommerce website"
+    },
+    {
+      "id": "project-3",
+      "description": "AI Portfolio Site",
+      "imageUrl": "https://picsum.photos/seed/102/800/600",
+      "imageHint": "Creative portfolio"
+    },
+    {
+      "id": "hero-abstract",
+      "description": "Abstract Digital Art",
+      "imageUrl": "https://picsum.photos/seed/otical/1200/800",
+      "imageHint": "Digital abstract"
+    }
+  ]
 }
