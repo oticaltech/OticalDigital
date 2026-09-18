@@ -51,3 +51,4 @@ Otical Digital is a high-performance web development agency starter kit. It feat
 
 - [Architecture Details](./ARCHITECTURE.md) - Deep dive into how the app is built.
 - [Screenshots](./SCREENSHOTS.md) - Visual overview of the application.
+- YouTube Demo: https://www.youtube.com/watch?v=ShIYBHpEPHQ
